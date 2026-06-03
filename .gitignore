@@ -1,0 +1,13 @@
+.vs/
+bin/
+obj/
+
+_archive_check/
+_clean_archive_check/
+_clean_package/
+
+*.zip
+*.7z
+*.rar
+
+*.user
